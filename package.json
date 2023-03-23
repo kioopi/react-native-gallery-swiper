@@ -54,8 +54,8 @@
     "README.md"
   ],
   "dependencies": {
-    "@manuhook/react-native-image-transformer": "^1.5.5",
-    "@manuhook/react-native-page-list": "^1.2.1",
+    "react-native-image-transformer": "https://github.com/Venpal-App/react-native-image-transformer",
+    "react-native-page-list": "https://github.com/HungNguyenBao/react-native-page-list",
     "deprecated-react-native-prop-types": "^4.0.0",
     "prop-types": "^15.6.2",
     "react-native-easy-guesture-responder": "^1.1.3"

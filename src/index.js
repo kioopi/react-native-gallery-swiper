@@ -1,10 +1,10 @@
-import PageList from "@ericedouard/react-native-page-list";
+import PageList from "react-native-page-list";
 import PropTypes from "prop-types";
 import React, { PureComponent } from "react";
 import { Dimensions, View } from "react-native";
 import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import { createResponder } from "react-native-easy-guesture-responder";
-import ImageTransformer from "@ericedouard/react-native-image-transformer";
+import ImageTransformer from "react-native-image-transformer";
 
 const DEFAULT_FLAT_LIST_PROPS = {
     windowSize: 3
